@@ -4,3 +4,7 @@ PROJECT DURING OOP (DIPLOMA)
 # Screenshot and tutorial
 
 https://www.youtube.com/watch?v=m_15QKm8T74
+
+
+<li> using sqlite database</li>
+<li>A very simple code for dummies to follow </li>
